@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on SCON Home page</title>
-    <link>/post.html</link>
+    <link>/post/</link>
     <description>Recent content in Events on SCON Home page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Meeting I (2019-08-29): Welcome to SCON!</title>
-      <link>/post/first-seminar.html</link>
+      <link>/post/first-seminar/</link>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/first-seminar.html</guid>
+      <guid>/post/first-seminar/</guid>
       <description> We need a description here. We should discuss about who will present for the first talk and the content of it
  </description>
     </item>
