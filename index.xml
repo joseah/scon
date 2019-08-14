@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Single-Cell Omics Network (SCON) on SCON Home page</title>
-    <link>/scone/</link>
+    <link>/</link>
     <description>Recent content in Single-Cell Omics Network (SCON) on SCON Home page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/scone/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Meeting I (2019-08-29): Welcome to SCON!</title>
-      <link>/scone/post/first-seminar/</link>
+      <link>/post/first-seminar/</link>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/scone/post/first-seminar/</guid>
+      <guid>/post/first-seminar/</guid>
       <description> We need a description here. We should discuss about who will present for the first talk and the content of it
  </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/scone/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/scone/contact/</guid>
+      <guid>/contact/</guid>
       <description> scon@garvan.org.au  </description>
     </item>
     
