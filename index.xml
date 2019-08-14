@@ -13,20 +13,20 @@
     
     <item>
       <title>Meeting I (2019-08-29): Welcome to SCON!</title>
-      <link>/post/first-seminar/</link>
+      <link>/post/first-seminar.html</link>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/first-seminar/</guid>
+      <guid>/post/first-seminar.html</guid>
       <description> We need a description here. We should discuss about who will present for the first talk and the content of it
  </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>/contact.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>/contact.html</guid>
       <description> scon@garvan.org.au  </description>
     </item>
     
