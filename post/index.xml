@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on SCON Home page</title>
+    <link>/post/</link>
+    <description>Recent content in Events on SCON Home page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meeting I (2019-08-29): Welcome to SCON!</title>
+      <link>/post/first-seminar/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/first-seminar/</guid>
+      <description> We need a description here. We should discuss about who will present for the first talk and the content of it
+ </description>
+    </item>
+    
+  </channel>
+</rss>

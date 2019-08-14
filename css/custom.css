@@ -1,0 +1,76 @@
+/* Extra CSS settings style="border-width:0" width="700" height="500" 
+frameborder="0" scrolling="no" */ 
+.person img {
+ float: center;
+ padding: 0 10px 10px 0;
+ width:150px;
+ height:150px;
+}
+
+p.normal {
+  font-weight: normal;
+  font-size:20px;
+}
+
+
+
+
+.padding-table-columns th
+{
+    padding:0 10px 0px 10px; /* Only right padding*/
+}
+
+
+
+
+
+.calendar iframe{
+  display:block;
+  width:600px;
+  height:400px;
+  margin: 0 auto;
+}
+
+
+.measure-wide {
+    max-width: 60em;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+input[type=text]:focus {
+  border: 3px solid #555;
+}
+
+
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: #242426;
+  border: none;
+  color: white;
+  padding: 5px 26px;
+  text-decoration: none;
+  margin: 4px 4px;
+  cursor: pointer;
+}
+
+.bg-white{
+  background-color: #1a1c1b;
+}
